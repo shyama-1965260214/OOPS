@@ -1,0 +1,4 @@
+Zone 0 Hour 8 -> Paise: 1200
+Zone 0 Hour 10 -> Paise: 1000
+Zone 2 Hour 17 -> Paise: 3600
+Zone 2 Hour 20 -> Paise: 3000

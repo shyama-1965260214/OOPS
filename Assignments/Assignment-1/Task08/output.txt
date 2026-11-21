@@ -1,0 +1,2 @@
+Invalid input ignored.
+Accepted Balance: Rs 120.50

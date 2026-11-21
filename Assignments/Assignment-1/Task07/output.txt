@@ -1,0 +1,1 @@
+OOP deduct: 1, Rem Rs: 60

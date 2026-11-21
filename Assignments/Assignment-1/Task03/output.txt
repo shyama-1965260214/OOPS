@@ -1,0 +1,2 @@
+sizeof(int): 4, sizeof(long long): 8
+Network Daily Collection (paise): 10800000000

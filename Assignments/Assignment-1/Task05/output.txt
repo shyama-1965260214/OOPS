@@ -1,0 +1,5 @@
+Hour 7: Off-Peak
+Hour 8: Peak
+Hour 10: Off-Peak
+Hour 17: Peak
+Hour 20: Off-Peak

@@ -1,0 +1,3 @@
+Fare Rs: 72
+Fare Rs: 54
+Fare Rs: 0
