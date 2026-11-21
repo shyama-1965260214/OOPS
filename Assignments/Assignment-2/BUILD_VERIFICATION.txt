@@ -1,0 +1,2 @@
+Compiler: g++ -std=c++17 -Wall -Wextra
+Status: All 7 tasks compiled and verified.
