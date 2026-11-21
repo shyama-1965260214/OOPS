@@ -1,0 +1,2 @@
+Compiler: g++ -std=c++17 -Wall -Wextra -fsanitize=address
+Status: All 9 tasks compiled and verified.
