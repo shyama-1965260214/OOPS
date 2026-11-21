@@ -1,0 +1,3 @@
+Untitled | Unknown | Copies: 0
+CppPrimer | Unknown | Copies: 1
+CppPrimer | Lippman | Copies: 5

@@ -1,0 +1,1 @@
+Series: 40 + 10j | Parallel: 14.7059 + 8.82353j
